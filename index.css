@@ -1,0 +1,37 @@
+.about{
+    color:  rgb(250, 245, 245);
+    font-size: 3em;
+    text-decoration: none;
+    margin-left: 130px;
+    background-color: rgb(13, 14, 13);
+    border-radius: 30px;
+    margin-top: 30px;
+}
+body{
+    background-color:rgb(241, 227, 227);
+}
+
+img{
+    border-radius: 30px;
+    margin-top: 40px;
+}
+video{
+    
+    margin-top: 40px;
+}
+audio{
+    margin-top: 40px;
+}
+.ol{
+    width: 33%;
+}
+.ok{
+    width: 24%;
+}
+.lo{
+    width: 24%;
+}
+.ko{
+    width: 33%;
+    height: 450px;
+}
